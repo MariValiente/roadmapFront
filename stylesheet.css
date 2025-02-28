@@ -1,0 +1,26 @@
+body{
+    max-width:60vw;
+    margin: 2% 3%;
+    padding-bottom: 3%;
+    border: 3px solid black;
+    font-family: sans-serif;
+}
+
+hr{
+    width: 70%;
+    margin-top: 50px;
+    margin-left: 40px;
+    border: 1px solid black;
+}
+
+section{
+    margin-left: 50px;
+}
+
+h4{
+    color: rgb(134, 202, 32);
+}
+
+h5{
+    color: rgb(52, 52, 249);
+}
